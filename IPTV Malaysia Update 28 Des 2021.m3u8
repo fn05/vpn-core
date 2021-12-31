@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:0,RCTI 1
-https://d35d0ifx19oopq.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7.m3u8
-#EXTINF:0,RCTI 2
-https://d35d0ifx19oopq.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-mp4a_96000=2.m3u8
+#EXTINF:0,Bein 1
+http://b.banourahga.xyz/live/61616550012/index.m3u8
+#EXTINF:0,Bein 2
+http://a1.bouhrnabdou.xyz/live/6161949878/index.m3u8
+#EXTINF:0,Bein 3
+http://i22.aminouras.xyz/live/61512788878/index.m3u8
